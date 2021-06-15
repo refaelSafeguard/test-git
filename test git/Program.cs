@@ -10,6 +10,7 @@ namespace test_git
     {
         static void Main(string[] args)
         {
+            string refael = "you're the man";
         }
     }
 }
